@@ -1,0 +1,1 @@
+how working bower and git together?
